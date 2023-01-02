@@ -1,0 +1,12 @@
+D:\ADO\DAY2\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.exe.config
+D:\ADO\DAY2\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.exe
+D:\ADO\DAY2\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.pdb
+D:\ADO\DAY2\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.AssemblyReference.cache
+D:\ADO\DAY2\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.SuggestedBindingRedirects.cache
+D:\ADO\DAY2\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Form1.resources
+D:\ADO\DAY2\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Properties.Resources.resources
+D:\ADO\DAY2\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.GenerateResource.cache
+D:\ADO\DAY2\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.CoreCompileInputs.cache
+D:\ADO\DAY2\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.exe
+D:\ADO\DAY2\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.pdb
+D:\ADO\DAY2\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Form2.resources
