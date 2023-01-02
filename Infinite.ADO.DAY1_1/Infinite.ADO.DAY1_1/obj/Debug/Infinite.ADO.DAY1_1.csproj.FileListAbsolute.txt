@@ -1,0 +1,13 @@
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\bin\Debug\Infinite.ADO.DAY1_1.exe.config
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\bin\Debug\Infinite.ADO.DAY1_1.exe
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\bin\Debug\Infinite.ADO.DAY1_1.pdb
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\obj\Debug\Infinite.ADO.DAY1_1.csproj.AssemblyReference.cache
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\obj\Debug\Infinite.ADO.DAY1_1.csproj.SuggestedBindingRedirects.cache
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\obj\Debug\Infinite.ADO.DAY1_1.Form1.resources
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\obj\Debug\Infinite.ADO.DAY1_1.Properties.Resources.resources
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\obj\Debug\Infinite.ADO.DAY1_1.csproj.GenerateResource.cache
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\obj\Debug\Infinite.ADO.DAY1_1.csproj.CoreCompileInputs.cache
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\obj\Debug\Infinite.ADO.DAY1_1.exe
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\obj\Debug\Infinite.ADO.DAY1_1.pdb
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\obj\Debug\Infinite.ADO.DAY1_1.EmployeeForm2.resources
+D:\ADO\DAY1\CW\Infinite.ADO.DAY1_1\Infinite.ADO.DAY1_1\obj\Debug\Infinite.ADO.DAY1_1.Form2.resources
